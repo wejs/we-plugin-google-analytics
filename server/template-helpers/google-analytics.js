@@ -6,7 +6,7 @@
 
 module.exports = function(we) {
   return function renderJavascriptTags() {
-    var html;
+    var html = '';
 
     if (!we.config.GA.id) {
       we.log.warn('required we.config.GA.id config not found. configure we.config.GA.id in your project with you google analytics ID');
