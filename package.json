@@ -13,7 +13,7 @@
     "registry": "http://registry.npmjs.org"
   },
   "author": "Alberto Souza <alberto.souza.dev@gmail.com>",
-  "license": "ISC",
+  "license": "MIT",
   "repository": {
     "type": "git",
     "url": "git@github.com:wejs/we-plugin-google-analytics.git"
