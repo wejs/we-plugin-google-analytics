@@ -7,18 +7,13 @@
 
 ## Features
 
-### Server side template helper
-
-```
-{{{google-analytics}}}
-```
+> This plugin will add google analytcs tag in `we-html-body-end` template event
 
 ## Configuration
 
 ```js
  GA: {
     id: [your google analytics ID],
-    enableEmberjs: true, // add suport to track ember.js page changes
     env: {
       prod: true,
       dev: false,
@@ -32,4 +27,4 @@
 
 ## Copyright and license
 
-Copyright 2013-2014 Alberto Souza <alberto.souza.dev@gmail.com> and contributors , under [the MIT license](LICENSE).
+Copyright 2013-2014 Alberto Souza <alberto.souza.99@gmail.com> and contributors, under [the MIT license](LICENSE).
