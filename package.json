@@ -1,8 +1,8 @@
 {
   "name": "we-plugin-google-analytics",
   "description": "We.js google analytcs plugin",
-  "version": "0.3.2",
-  "main": "lib/index.js",
+  "version": "0.3.3",
+  "main": "plugin.js",
   "scripts": {},
   "dependencies": {},
   "devDependencies": { },
