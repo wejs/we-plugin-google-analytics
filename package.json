@@ -1,18 +1,19 @@
 {
   "name": "we-plugin-google-analytics",
   "description": "We.js google analytcs plugin",
-  "version": "0.3.3",
+  "version": "1.1.0",
   "main": "plugin.js",
   "scripts": {},
   "dependencies": {},
-  "devDependencies": { },
-  "publishConfig": {
-    "registry": "http://registry.npmjs.org"
-  },
-  "author": "Alberto Souza <alberto.souza.dev@gmail.com>",
+  "author": "Alberto Souza <contato@albertosouza.net>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "git@github.com:wejs/we-plugin-google-analytics.git"
+  "repository": "wejs/we-plugin-google-analytics",
+  "keywords": [
+    "wejs-plugin"
+  ],
+  "wejs": {
+    "dependencies": {
+      "we-plugin-view": true
+    }
   }
 }
