@@ -8,6 +8,12 @@ This plugin add suport to google analytics in your we.js project wwith view plug
 
 > This plugin will add google analytcs tag in `we-html-body-end` template event
 
+## Installation
+
+```sh
+ẁe i we-plugin-google-analytics
+```
+
 ## Configuration
 
 ```js
