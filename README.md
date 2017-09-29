@@ -1,7 +1,5 @@
 # We.js google analytics plugin
 
-[![Dependency Status](https://david-dm.org/wejs/we-plugin-google-analytics.png)](https://david-dm.org/wejs/we-plugin-google-analytics)
-
 This plugin add suport to google analytics in your we.js project wwith view plugin
 
 ## Features
@@ -16,6 +14,8 @@ This plugin add suport to google analytics in your we.js project wwith view plug
 
 ## Configuration
 
+### With static config:
+
 ```js
  GA: {
     id: [your google analytics ID],
@@ -26,6 +26,10 @@ This plugin add suport to google analytics in your we.js project wwith view plug
     }
   }
 ```
+
+### With database system settings:
+
+Set googleAnalyticsID system settings
 
 #### NPM Info:
 [![NPM](https://nodei.co/npm/we-plugin-google-analytics.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/we-plugin-google-analytics/)
