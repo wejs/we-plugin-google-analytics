@@ -31,9 +31,6 @@ This plugin add suport to google analytics in your we.js project wwith view plug
 
 Set googleAnalyticsID system settings
 
-#### NPM Info:
-[![NPM](https://nodei.co/npm/we-plugin-google-analytics.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/we-plugin-google-analytics/)
-
 ## License
 
 Under [the MIT license](https://github.com/wejs/we/blob/master/LICENSE.md).
